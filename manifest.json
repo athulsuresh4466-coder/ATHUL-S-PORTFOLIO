@@ -1,0 +1,15 @@
+{
+  "name": "Athul S Portfolio",
+  "short_name": "Athul",
+  "start_url": "/ATHUL-S-PORTFOLIO/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
